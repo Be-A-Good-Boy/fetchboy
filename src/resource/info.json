@@ -1,0 +1,21 @@
+{
+    "commands": {
+        "help": {
+            "aliases": [],
+            "description": "Print help"
+        },
+        "extract": {
+            "aliases": [],
+            "description": "Extract Good Boy in the (current) path"
+        },
+        "install-self": {
+            "aliases": [],
+            "description": "Bind FetchCLI to system's path"
+        },
+        "install-tools": {
+            "aliases": [],
+            "description": "Install necessary tools to make the development work"
+        }
+    },
+    "usage": "fetchboy [command] [options]"
+}

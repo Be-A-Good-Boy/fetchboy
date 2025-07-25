@@ -1,0 +1,26 @@
+{
+   "version": "0.7.1",
+   "packages": [
+      {
+         "name": "boxx",
+         "version": "0.0.4",
+         "url": "https://github.com/thecodrr/boxx",
+         "method": "git",
+         "latest_commit": "95e8dfa88ff504da46c59026ac8bc2636fcb6d96"
+      },
+      {
+         "name": "termtable",
+         "version": "0.9.0",
+         "url": "https://github.com/serkonda7/termtable",
+         "method": "git",
+         "latest_commit": "89f2ca4618b0b4482a2af252b7811eb3a5a7ba61"
+      },
+      {
+         "name": "vargs",
+         "version": "0.5",
+         "url": "https://github.com/nedpals/vargs",
+         "method": "git",
+         "latest_commit": "9f3baf9ede342cd2401fc2fad8f2158c96bfc675"
+      }
+   ]
+}

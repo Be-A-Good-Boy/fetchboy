@@ -1,0 +1,5 @@
+               .--~~,__   |
+  :-....,-------`~~'._.'  |  What a GOOD BOY!
+   `-,,,  ,_      ;'~U'   |  Fetch CLI for a Good Boy!!!!!!!! `fetchboy help` for more
+    _,-' ,'`-__; '--.     |  ver 0.1.0 - written in V (yes, the weasel)
+   (_/'~~      ''''(;     |

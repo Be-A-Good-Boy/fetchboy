@@ -1,0 +1,9 @@
+Project and tools management for projects in a Good Boy's way.
+
+Usage: %s
+
+Commands:
+%s
+
+Options:
+%s
