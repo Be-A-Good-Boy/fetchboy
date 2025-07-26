@@ -1,1 +1,4 @@
 #!/bin/bash
+FETCHDEV_ROOT="$( cd "$( dirname "${BASH_SOURCE[0]}" )/.." && pwd )"
+v -o "${FETCHDEV_ROOT}/build/fetchboy.c" "${FETCHDEV_ROOT}"
+gcc "${FETCHDEV_ROOT}/build/fetchboy.c" -o "${FETCHDEV_ROOT}/dist/fetchboy.exe"
